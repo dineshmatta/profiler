@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  top_matches: MyString
+  upcoming_meetings: MyString
+  past_meetings: MyString
+  user_id: 1
+
+two:
+  top_matches: MyString
+  upcoming_meetings: MyString
+  past_meetings: MyString
+  user_id: 1

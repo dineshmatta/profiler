@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  designer: MyString
+  attorney: MyString
+  painter: MyString
+  accountant: MyString
+  pr_firm: MyString
+
+two:
+  designer: MyString
+  attorney: MyString
+  painter: MyString
+  accountant: MyString
+  pr_firm: MyString

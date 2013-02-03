@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  web_design: MyString
+  it_consulting: MyString
+  db_admin: MyString
+  user_id: 1
+
+two:
+  web_design: MyString
+  it_consulting: MyString
+  db_admin: MyString
+  user_id: 1
